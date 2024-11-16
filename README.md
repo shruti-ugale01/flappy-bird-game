@@ -1,1 +1,1 @@
-# fappy-bird-game
+# flappy-bird-game

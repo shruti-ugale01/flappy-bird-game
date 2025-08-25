@@ -6,3 +6,4 @@ This project is a Python-based clone of the classic Flappy Bird game, created us
 
 <img width="830" height="945" alt="image" src="https://github.com/user-attachments/assets/1ed65ac3-0087-4ebd-a476-5e1c33841cff" />
 
+
